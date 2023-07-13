@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.demo
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, graalvm, gradle, http-client, jackson-databind, kafka, kafka-streams, kotest, kotlin, kotlin-application, kotlin-build, logback, micronaut-build, netty-server, readme, shade, test-resources, yaml]
